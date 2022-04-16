@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/TURBOHYPER">fayassir</a> to make 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fayassir/KELLYMOWL) 
         
-<a href="https://github.com/fayassir/KELLYMOWL/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/fayassir/KELLYMOWL/fork"><img align="center" src="20220401_121342.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
