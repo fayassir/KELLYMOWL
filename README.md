@@ -28,29 +28,29 @@ Project created by <a href="https://github.com/TURBOHYPER">fayassir</a> to make 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fayassir/KELLYMOWL) 
         
-<a href="https://github.com/TURBOHYPER/Toxic-Alexa/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/fayassir/KELLYMOWL/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ALEXA_QR_CODE).
+2. You will get a long text that needs after 4th step (KELLY_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/TURBOHYPER/Toxic-Alexa/fork)
+4. Click [FORK](https://github.com/fayassir/KELLYMOWL/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa
+https://heroku.com/deploy?template=https://github.com/fayassir/KELLYMOWL
 ``` 
-6. Now change TURBOHYPER with your github username and click ENJOY<br>
+6. Now change fayassir with your github username and click ENJOY<br>
    <br>
 # Contact for help:
-   * Click [Contact](https://wa.me/916380260672?text=Need+Help🙂) Here For Contact Toxic-Turbo
+   * Click [Contact](https://wa.me/919947511243?text=Need+Help🙂) Here For Contact Toxic-Turbo
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/fayassir/KELLYMOWL
+$ cd KELLYMOWL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node toxic-alexa.js
@@ -58,8 +58,8 @@ $ node toxic-alexa.js
       
 ```js
 SETUP
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/fayassir/KELLYMOWL
+$ cd KELLYMOWL
 $ npm i
 $ node toxic-alexa.js
 ```
