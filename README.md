@@ -3,7 +3,7 @@
         <img src="20220330_080524.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/KELLYMOWL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
