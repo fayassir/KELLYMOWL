@@ -12,13 +12,13 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Alexa bot created by Turbo*
 *Creator number : wa.me/916380260672?text=Hi%20Turbo%20Mods.%20*
 
-*Githublink :    https://github.com/TURBOHYPER/Toxic-Alexa/fork*
+*Githublink :    https://github.com/fayassir/KELLYMOWL/fork*
 
-*Audio commads :   https://github.com/TURBOHYPER/Toxic-Alexa/tree/master/uploads*
+*Audio commads :   https://github.com/fayassir/KELLYMOWL/tree/master/uploads*
 
-*Sticker commads : https://github.com/TURBOHYPER/Toxic-Alexa/tree/master/sticker*
+*Sticker commads : https://github.com/fayassir/KELLYMOWL/tree/master/sticker*
 
-*My channel link : https://youtube.com/c/TurboMods* 
+*My channel link : https://youtube.com/channel/UCdPFEJcc7HyjF2D4R24tpcA* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
