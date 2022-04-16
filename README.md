@@ -16,7 +16,7 @@ Project created by <a href="https://github.com/TURBOHYPER">fayassir</a> to make 
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=Toxic-Alexa%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=KELLYMOWL%20Views)
 
 ## Setup
 <div align="center">
