@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Toxic-Alexa working!')
+            chalk.green.bold('✅ KELLYMOWL working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Alexa ERROR FOUND!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *KELLYMOWL ERROR FOUND!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TurboMods \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp``` ' 
                                     , MessageType.text);
                             }
