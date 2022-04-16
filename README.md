@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+KELLYMOWL;THIS+BOT+MADE+BY+FAYAS+%26+SIR)](https://git.io/typing-svg)
 <div align="center">
         <img src="20220330_080524.jpg" alt="GIF" width="250" height="250"/>
 </p>
