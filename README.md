@@ -82,26 +82,26 @@ $ node toxic-alexa.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EXjFwp6nhYm36uxUyLvaHM)
   <div align="center">
 
 
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EXjFwp6nhYm36uxUyLvaHM)
   <div align="center">
 
   </div>
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://www.youtube.com/c/TurboMods)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCdPFEJcc7HyjF2D4R24tpcA)
 
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/toxic_turbo777)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/fs._gfx_?igshid=YmMyMTA2M2Y=)
 
 
 ### ⚠️ Warning! 
